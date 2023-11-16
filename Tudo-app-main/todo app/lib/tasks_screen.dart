@@ -31,7 +31,7 @@ class TasksScreen extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("assets/images/my_image.jpg"),
+                  backgroundImage: AssetImage("assets/images/WhatsApp Image 2023-11-16 at 11.46.22 PM.jpeg"),
                 ),
                 SizedBox(height: 10),
                 Text(
